@@ -1,1 +1,2 @@
 Python is a good programming language
+Java is also a good programming language
